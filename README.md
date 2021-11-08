@@ -1,6 +1,8 @@
 # TP1
 Calculadora
 
+Trabajo practico N°1
+
 Hacer una calculadora. Para ello el programa iniciará y contará con un menú de opciones:
 
 1. Ingresar 1er operando (A=x)
