@@ -20,3 +20,5 @@ Todas las funciones matemáticas del menú se deberán realizar en una bibliotec
 . En el menú deberán aparecer los valores actuales cargados en los operandos A y B (donde dice "x" e "y" en el ejemplo, se debe mostrar el número cargado)
 
 . Deberán contemplarse los casos de error (división por cero, etc)
+
+Integrantes:
