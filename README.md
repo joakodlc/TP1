@@ -24,3 +24,5 @@ Todas las funciones matemáticas del menú se deberán realizar en una bibliotec
 Integrantes:
 Joaquín De La Cruz
 Noelia Mustaff
+Tomas
+Nahuel
