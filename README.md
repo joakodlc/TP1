@@ -25,4 +25,4 @@ Integrantes:
 Joaquín De La Cruz
 Noelia Mustaff
 Tomas
-Nahuel
+Nahuel Lorenzo
