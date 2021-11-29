@@ -1,4 +1,7 @@
+# TP-N1-PARA-PARCIAL
+
 # TP1
+
 Calculadora
 
 Trabajo practico N°1
@@ -10,7 +13,7 @@ Hacer una calculadora. Para ello el programa iniciará y contará con un menú d
 3. Calcular la suma (A+B)
 4. Calcular la resta (A-B)
 5. Calcular la division (A/B)
-6. Calcular la multiplicacion (A*B)
+6. Calcular la multiplicacion (A\*B)
 7. Calcular el factorial (A!)
 8. Calcular todas las operaciones
 9. Salir
@@ -24,5 +27,5 @@ Todas las funciones matemáticas del menú se deberán realizar en una bibliotec
 Integrantes:
 Joaquín De La Cruz -
 Noelia Mustaff -
-Tomas -
+Tomas Alvarez -
 Nahuel Lorenzo
